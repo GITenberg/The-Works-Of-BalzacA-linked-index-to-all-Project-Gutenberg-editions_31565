@@ -1,0 +1,39 @@
+_repo: The-Works-Of-BalzacA-linked-index-to-all-Project-Gutenberg-editions_31565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: 'The Works Of Balzac: A linked index to all Project Gutenberg editions'
+url: http://www.gutenberg.org/ebooks/31565
