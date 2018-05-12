@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31565#The-Works-Of-BalzacA-linked-index-to-all-Project-Gutenberg-editions
 gutenberg_issued: '2010-03-08'
 gutenberg_type: Text
 identifiers:
